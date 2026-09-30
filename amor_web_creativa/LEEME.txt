@@ -1,0 +1,22 @@
+NUESTRO PEQUEÑO UNIVERSO — GUÍA RÁPIDA
+
+1. Descomprime amor_web_creativa.zip.
+2. Añade tus imágenes a la carpeta fotos con estos nombres:
+   foto1.jpg, foto2.jpg, foto3.jpg y foto4.jpg.
+3. Añade tus vídeos MP4 a la carpeta videos con estos nombres:
+   video1.mp4, video2.mp4 y video3.mp4.
+4. Abre index.html en tu navegador para probar la web.
+5. Personaliza los textos directamente en los archivos HTML:
+   - index.html: portada y mensajes principales
+   - historia.html: etapas y recuerdos de la relación
+   - galeria.html: títulos de las fotos
+   - videos.html: textos de los vídeos
+   - carta.html: carta personal
+   - sorpresa.html: mensaje sorpresa
+6. Los archivos fotos y vídeos son tuyos: esta plantilla no incluye medios personales.
+7. Para compartir la página con un enlace público y crear un QR, primero tendrás que subir
+   la carpeta completa a un servicio de alojamiento web estático. No basta con enviar
+   el archivo index.html de tu computadora.
+
+Diseño: HTML + CSS + JavaScript, adaptable a celular y computadora.
+No se necesita instalar programas ni usar PHP para esta versión estática.
